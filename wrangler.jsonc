@@ -1,6 +1,8 @@
 {
 // wrangler.jsonc
 "name": "roundworm-reboot",
-"compatibility_date": "2026-01-30",
-
+"compatibility_date": "2026-01-30"
+"assets": {
+    "directory": "./public/"
+  }
 }
