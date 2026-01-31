@@ -5,7 +5,10 @@ description = "This is the description for my demo article"
 date = "2026-01-30T16:57:54-08:00"
 author = "John Smith"
 
-draft = false
+draft = true
+tags = ["red", "yellow"]
+categories = ["demo"]
+license = "CC0"
 
 # Use a specific archetype with `--kind`
 # More info at https://alpha.oxypteros.com/docs/content-creation/
